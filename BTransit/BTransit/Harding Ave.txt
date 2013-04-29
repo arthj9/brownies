@@ -1,0 +1,32 @@
+Alumni Mall Ebnd
+Alumni Mall Wbnd
+Ascot/Hampton
+Ascot/Harding Ebnd
+Ascot/Harding Wbnd
+Burruss Hall
+Harding/Apperson Ebnd
+Harding/Apperson Wbnd
+Harding/Cork Ebnd
+Harding/Cork Wbnd
+Harding/Owens Ebnd
+Harding/Patrick Henry Ebnd
+Harding/Patrick Henry Wbnd
+Harding/Roanoke Ebnd
+Harding/Rucker Wbnd
+Harding/Sutton Wbnd
+Harding/Vista Ebnd
+Hutcheson Hall
+Main St Post Office
+Main/Roanoke Sbnd
+Roanoke/Church Ebnd
+Roanoke/Penn Wbnd
+Roanoke/Rutledge Ebnd
+Roanoke/Rutledge Wbnd
+Roanoke/Wharton Ebnd
+Roanoke/Wharton Wbnd
+Roanoke/Woolwine Ebnd
+Roanoke/Woolwine Wbnd
+Squires Ebnd
+Squires Wbnd
+War Memorial Hall
+

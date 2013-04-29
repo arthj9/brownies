@@ -1,0 +1,48 @@
+Alumni Mall Ebnd
+Amumni Mall Wbnd
+Blacksburg Municipal Building
+Blacksburg Square
+Fairfax/Ellett Ebnd
+Fairfax/Ellett Wbnd
+Fairfax/New Kent Ebnd
+Gables Shopping Center
+Grissom/Nellies Cave Nbnd
+Grissom/Nellies Cave Sbnd
+Industrial Park/Transportation Res EBnd
+Main St Post Office
+Main/Airport Sbnd
+Main/Ardmore Nbnd
+Main/Clay Nbnd
+Main/Cohee Nbnd
+Main/Dowdy Nbnd
+Main/Dowdy Sbnd
+Main/Eakin Nbnd
+Main/Eakin Sbnd
+Main/Edgewood Sbnd
+Main/Eheart Sbnd
+Main/Faystone Sbnd
+Main/Graves Nbnd
+Main/Hemlock Nbnd
+Main/Hemlock Sbnd
+Main/Landsdowne Nbnd
+Main/Landsdowne Sbnd
+Main/Lee Nbnd
+Main/Roanoke Sbnd
+Main/S Hill Nbnd
+Main/S Hill Sbnd
+Main/South Park Sbnd
+Main/Sunset Nbnd
+Marlington/Emerald Ebnd
+Marlington/Emerald Wbnd
+Marlington/Grayland Ebnd
+Marlington/Grayland Wbnd
+Marlington/Grissom Wbnd
+Marlington/Main Wbnd
+New Kent/Loudon Ebnd
+New Kent/Loudon Wbnd
+New Kent/Sussex Ebnd
+New Kent/Sussex Wbnd
+Professional Park Nbnd
+Prosperity/Industrial Park Nbnd
+Squires Ebnd
+Squires Wbnd

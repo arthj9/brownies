@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CRC Shuttle</key>
+	<string>done</string>
+	<key>CRC/Hospital</key>
+	<string>done</string>
+	<key>Hethwood</key>
+	<string>done</string>
+	<key>Harding Ave</key>
+	<string>done</string>
+	<key>Hokie Express</key>
+	<string>done</string>
+	<key>Hospital Connector</key>
+	<string>BTransit</string>
+	<key>Main Street North</key>
+	<string>BTransit</string>
+	<key>Main Street South</key>
+	<string>done</string>
+	<key>Patrick Henry</key>
+	<string>done</string>
+	<key>Progress Street</key>
+	<string>done</string>
+	<key>Toms Creek</key>
+	<string>done</string>
+	<key>Two Town Trolley</key>
+	<string>done</string>
+	<key>University City Boulevard</key>
+	<string>done</string>
+	<key>University Mall Shuttle</key>
+	<string>done</string>
+	<key>Snow Routes</key>
+	<string>BTransit</string>
+	<key>Game Day Service: Football</key>
+	<string>BTransit</string>
+	<key>Game Day Service: Basketball</key>
+	<string>BTransit</string>
+	<key>Christiansburg Service</key>
+	<string>BTransit</string>
+	<key>BT Commuter Service</key>
+	<string>BTransit</string>
+</dict>
+</plist>

@@ -1,0 +1,38 @@
+1200 North Main Nbnd
+1200 North Main Sbnd
+1500 North Main Nbnd
+1500 North Main Sbnd
+Alumni Mall Ebnd
+Alumni Mall Wbnd
+Burruss Hall
+Giles/Heights Nbnd
+Giles/Northview Nbnd
+Giles/Patrick Henry Nbnd
+Givens/Main Wbnd
+Lucas/Giles Ebnd
+Lucas/Main Ebnd
+Main/Collegiate CT Sbnd
+Main/Giles Nbnd
+Main/Kabrich Sbnd
+Main/Lucas Nbnd
+Main/Lucas Sbnd
+Main/Montgomery Nbnd
+Main/Montgomery Sbnd
+Main/Northview Nbnd
+Main/Northview Sbnd
+Main/Patrick Henry Nbnd
+Main/Patrick Henry Sbnd
+Main/Red Maple Nbnd
+Main/Turner Nbnd
+Main/Turner Sbnd
+Patrick Henry/Giles Wbnd
+Patrick Henry/Main Wbnd
+Patrick Henry/Seneca Wbnd
+Pheasant Run
+Seneca/Patrick Henry Sbnd
+Squires Ebnd
+Squires Wbnd
+Whipple/Courtney Sbnd
+Whipple/Givens Wbnd
+
+

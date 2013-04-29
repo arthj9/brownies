@@ -1,0 +1,47 @@
+Airport
+Burruss Hall
+Cassel Coliseum
+Coliseum Parking Lot Sbnd
+Ctas Institute Bldg
+Davidson Hall
+Fairfax Circle
+Fairfax/Ellett Ebnd
+Fairfax/Ellett Wbnd
+Fairfax/New Kent Ebnd
+Industrial Park/Transportation Res Ebnd
+Industrial Park/Transportation Res Wbnd
+Kraft/Knowledgeworks 1 Bldg Sbnd
+Kraft/Moss Bldg Sbnd
+Kraft/Research Ctr Ebnd
+Kraft/Tech Center Dr Sbnd
+Lane Stadium S Endzone Nbnd
+Lane Stadium S Endzone Sbnd
+Lewisgale Hospital Montogomery
+Litton Reaves Hall
+Main/Dowdy Nbnd
+Main/Dowdy Sbnd
+Main/S Hill Nbnd
+Main/S Hill Sbnd
+Main/South Park Sbnd
+McBryde Hall
+McComas Hall
+Newman Library
+Pratt Dr/Andrews Bldg Nbnd
+Pratt Dr/Andrews Bldg Sbnd
+Pratt Dr/Garvin Bldg Nbnd
+Pratt Dr/Garvin Bldg Sbnd
+Pratt/Kraft Ebnd
+Pratt/Kraft Wbnd
+Prices Fork/Old Glade Ebnd
+Prices Fork/Old Glade Wbnd
+Professional Park Nbnd
+Professional Park Sbnd
+Prosperity/Industrial Park Nbnd
+Prosperity/Industrial Park Sbnd
+Rec Fields Nbnd
+Rec Fields Sbnd
+Research Ctr/Rimrock Nbnd
+Research Ctr/Rimrock Sbnd
+Research Ctr/N Knollwood Nbnd
+Research Ctr/S Knollwood Nbnd
+Tennis Courts

@@ -1,0 +1,23 @@
+Airport
+Burruss Hall
+Cassel Coliseum
+Coliseum Parking Lot Sbnd
+Kraft/Knowledgeworks 1 Bldg Sbnd
+Kraft/Moss Bldg Sbnd
+Kraft/Research Ctr Ebnd
+Kraft/Tech Center Dr Sbnd
+Lane Stadium S Endzone Nbnd
+Lane Stadium S Endzone Sbnd
+Litton Reaves Hall
+Newman Library
+Pratt Dr/Andrews Bldg Nbnd
+Pratt Dr/Andrews Bldg Sbnd
+Pratt Dr/Garvin Bldg Nbnd
+Pratt Dr/Garvin Bldg Sbnd
+Pratt/Kraft Ebnd
+Pratt/Kraft Wbnd
+Rec Fields Nbnd
+Rec Fields Sbnd
+Research Ctr/N Knollwood Nbnd
+Research Ctr/S Knollwood Nbnd
+Tennis Courts
